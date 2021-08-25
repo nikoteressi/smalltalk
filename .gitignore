@@ -1,0 +1,3 @@
+# Project exclude paths
+/smalltalk-client/target/
+/smalltalk-server/target/
