@@ -1,7 +1,7 @@
 package com.smalltalk.server;
 
-public class ServerApp {
+public class ServerLauncher {
     public static void main(String[] args) {
-        new Server().start();
+        new ChatServer().start();
     }
 }

@@ -1,7 +1,7 @@
 package com.smalltalk.client.app;
 
-public class Launcher {
+public class ChatLauncher {
     public static void main(String[] args) {
-        MainApplication.main(args);
+        ChatClientApplication.main(args);
     }
 }
