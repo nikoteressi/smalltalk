@@ -1,4 +1,4 @@
-package com.smalltalk.server;
+package com.smalltalk.server.application;
 
 public class ServerLauncher {
     public static void main(String[] args) {

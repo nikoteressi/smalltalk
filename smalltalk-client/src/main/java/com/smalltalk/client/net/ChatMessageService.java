@@ -10,7 +10,6 @@ public class ChatMessageService {
         this.messageProcessor = messageProcessor;
     }
 
-
     public void connect() {
         if (isConnected()) return;
         try {
